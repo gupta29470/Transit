@@ -1,6 +1,6 @@
 # Transit
 
-> A single-page app that shows famous locations.
+> A single-page app with great UI that shows famous locations.
 
 <br/><br/>
 
