@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-> A glimpse of **Transit** 
+> A glimpse of **Transit**.
 
 <br/><br/>
 
