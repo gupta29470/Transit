@@ -9,5 +9,5 @@
 <br/><br/>
 
 <p align="center">
-  <img src="AuthFi.gif" alt="animated" width="300" height="600" />
+  <img src="Transit.gif" alt="animated" width="300" height="600" />
 </p>
